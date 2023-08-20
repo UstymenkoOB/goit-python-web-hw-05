@@ -1,0 +1,162 @@
+[
+    {
+        "20.08.2023": {
+            "CHF": {
+                "sale": 43.15,
+                "purchase": 41.28
+            },
+            "EUR": {
+                "sale": 41.85,
+                "purchase": 40.85
+            },
+            "USD": {
+                "sale": 38.0,
+                "purchase": 37.4
+            }
+        }
+    },
+    {
+        "19.08.2023": {
+            "CHF": {
+                "sale": 43.15,
+                "purchase": 41.28
+            },
+            "EUR": {
+                "sale": 41.85,
+                "purchase": 40.85
+            },
+            "USD": {
+                "sale": 38.0,
+                "purchase": 37.4
+            }
+        }
+    },
+    {
+        "18.08.2023": {
+            "CHF": {
+                "sale": 43.2,
+                "purchase": 41.37
+            },
+            "EUR": {
+                "sale": 41.75,
+                "purchase": 40.75
+            },
+            "USD": {
+                "sale": 37.95,
+                "purchase": 37.35
+            }
+        }
+    },
+    {
+        "17.08.2023": {
+            "CHF": {
+                "sale": 43.29,
+                "purchase": 41.46
+            },
+            "EUR": {
+                "sale": 41.7,
+                "purchase": 40.7
+            },
+            "USD": {
+                "sale": 37.95,
+                "purchase": 37.35
+            }
+        }
+    },
+    {
+        "16.08.2023": {
+            "USD": {
+                "sale": 37.65,
+                "purchase": 37.05
+            },
+            "CHF": {
+                "sale": 42.77,
+                "purchase": 41.28
+            },
+            "EUR": {
+                "sale": 41.5,
+                "purchase": 40.5
+            }
+        }
+    },
+    {
+        "15.08.2023": {
+            "CHF": {
+                "sale": 42.82,
+                "purchase": 41.45
+            },
+            "EUR": {
+                "sale": 41.4,
+                "purchase": 40.4
+            },
+            "USD": {
+                "sale": 37.55,
+                "purchase": 36.95
+            }
+        }
+    },
+    {
+        "14.08.2023": {
+            "CHF": {
+                "sale": 42.51,
+                "purchase": 41.27
+            },
+            "EUR": {
+                "sale": 41.4,
+                "purchase": 40.4
+            },
+            "USD": {
+                "sale": 37.45,
+                "purchase": 36.85
+            }
+        }
+    },
+    {
+        "13.08.2023": {
+            "CHF": {
+                "sale": 42.61,
+                "purchase": 41.47
+            },
+            "EUR": {
+                "sale": 41.45,
+                "purchase": 40.45
+            },
+            "USD": {
+                "sale": 37.4,
+                "purchase": 36.8
+            }
+        }
+    },
+    {
+        "12.08.2023": {
+            "CHF": {
+                "sale": 42.61,
+                "purchase": 41.47
+            },
+            "EUR": {
+                "sale": 41.45,
+                "purchase": 40.45
+            },
+            "USD": {
+                "sale": 37.4,
+                "purchase": 36.8
+            }
+        }
+    },
+    {
+        "11.08.2023": {
+            "CHF": {
+                "sale": 42.61,
+                "purchase": 41.47
+            },
+            "EUR": {
+                "sale": 41.45,
+                "purchase": 40.45
+            },
+            "USD": {
+                "sale": 37.4,
+                "purchase": 36.8
+            }
+        }
+    }
+]
